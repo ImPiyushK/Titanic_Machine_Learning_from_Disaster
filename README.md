@@ -1,2 +1,2 @@
 # Titanic Machine Learning from Disaster
-![](RawData/image1.jpg)
+![Display Image](RawData/image1.jpg)
