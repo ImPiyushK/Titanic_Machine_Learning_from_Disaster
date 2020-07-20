@@ -43,3 +43,10 @@ The procedure mentioned above in Project Description was successful in yielding 
 | [SVM](./Output) | 0.786 |
 | [KNN](./Output) | 0.704 |
 | [Decision Tree](./Output) | 0.787 |
+
+## Result
+The Random forest gives best cross validation score and accuracy thus it gives score of 0.78947 after submitting file in kaggle competition.
+![Display Image](RawData/Capture.PNG)
+
+##  Improvement
+The accuracy can be increased by using some pre-processing techniques by taking the name title as a feature like Mr, Mrs, Ms.
