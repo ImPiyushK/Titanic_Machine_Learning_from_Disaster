@@ -25,5 +25,10 @@ This project analyses which people were likely to survive. In particular, tools 
 * readme.md - for guide to this project.<br>
 
 ## Project Description
-
-
+This project has been made in Google Colab. 
+The project uses a 5 step process for it's predicting task which is as follows:
+1. Perform statistical analysis of data to find whether any of the entries is missing or not.
+2. After performing statistical analysis, do a visual analysis by plotting the data using different bar graphs.
+3. Used Feature Engineering technique to fill empty data(Fare, Age) with median of columns and changed sex column to 0,1 where male=0, female=1 and finally changed Embarked column to 0,1,2 where S=0, C=1, Q=2
+4. Implemented multiple machine learning algorithm like Random Forest, Logistic Regression, Naive Bayues, SVM, KNN and Decision Tree to find which one is better for prediction.
+5. Predicting and calculating the accuracy using Cross Validation Accuracy.
