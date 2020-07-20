@@ -34,9 +34,12 @@ The project uses a 5 step process for it's predicting task which is as follows:
 5. Predicting and calculating the accuracy using Cross Validation Accuracy.
 
 ## Algorithm Performance
-The procedure mentioned above in Project Description was successful in yielding decent results. The procedure gives cross validation accuracy of 0.828 with random forest. Other algorithms give the following results:
-Logistic Regression: 0.795
-Naive Bayes: 0.786
-SVM: 0.786
-KNN: 0.704
-Decision Tree: 0.787
+The procedure mentioned above in Project Description was successful in yielding decent results. The algorithms give the following results:<br>
+| Model  | Cross Validation Score |
+| --- | --- |
+| [Random Forest](./Output) | 0.828 |
+| [Logistic Regression](./Output) | 0.795 | 
+| [Naive Bayes](./Output) | 0.786 |
+| [SVM](./Output) | 0.786 |
+| [KNN](./Output) | 0.704 |
+| [Decision Tree](./Output) | 0.787 |
