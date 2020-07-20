@@ -13,3 +13,10 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 This project analyses which people were likely to survive. In particular, tools of machine learning have been used to predict which passengers survived the tragedy.
 
+# File Description
+
+* Titanic.ipynb - Jupyter Notebook which contains python code for predicting survival.<br>
+* titanic.py - Python code for predicting model.<br>
+* Output - contains output files generated from different algorithm.<br>
+* Dataset- contains training and testing data.<br>
+* readme.md - for guide to this project.<br>
