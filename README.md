@@ -32,3 +32,11 @@ The project uses a 5 step process for it's predicting task which is as follows:
 3. Used Feature Engineering technique to fill empty data(Fare, Age) with median of columns and changed sex column to 0,1 where male=0, female=1 and finally changed Embarked column to 0,1,2 where S=0, C=1, Q=2
 4. Implemented multiple machine learning algorithm like Random Forest, Logistic Regression, Naive Bayues, SVM, KNN and Decision Tree to find which one is better for prediction.
 5. Predicting and calculating the accuracy using Cross Validation Accuracy.
+
+## Algorithm Performance
+The procedure mentioned above in Project Description was successful in yielding decent results. The procedure gives cross validation accuracy of 0.828 with random forest. Other algorithms give the following results:
+Logistic Regression: 0.795
+Naive Bayes: 0.786
+SVM: 0.786
+KNN: 0.704
+Decision Tree: 0.787
